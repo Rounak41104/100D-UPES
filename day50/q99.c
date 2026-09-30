@@ -1,6 +1,6 @@
 /*
-name:manjit
-roll:590041123
+name:rounak
+roll:590041104
 day:50 question:1
 date:28-09-2026
 
