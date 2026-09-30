@@ -1,6 +1,6 @@
 /*
-Name: manjit
-Roll: 590041123
+Name: rounak
+Roll: 590041104
 Day: 42
 Question: 1
 Date: 23-09-2026
